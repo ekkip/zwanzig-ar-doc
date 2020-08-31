@@ -11,6 +11,7 @@ nav_order: 1
 Die mehrseitige Intro muss einmal durchgeblättert werden, von hier gelangt die User*in automatisch zur Tourauswahl.
 
 ## Tourauswahl
+
 - CP 0: App
     - Geschichten [CP 1]  
 - CP 1: Geschichte
@@ -19,24 +20,28 @@ Die mehrseitige Intro muss einmal durchgeblättert werden, von hier gelangt die 
     - Text für Tourauswahl
     - Tourlänge [Minuten]
 
-AR-Session (Tourbeginn)
+## AR-Session (Tourbeginn)
+
 - CP 1: Geschichte
     - Anmoderation
     - Einstiegs-Linkobjekttyp, ggfs. CP 4: Einstiegshinweisobjekt
 
-Spielplan
+## Spielplan
+
 - CP 1: Geschichte
     - Portale [CP 2]
         - Standort
 
-Navigator
+## Navigator
+
 - CP 1: Geschichte
     - Einstiegs-Linkobjekttyp, ggfs. CP 4: Hinweisobjekt (für erstes reguläres Portal)
 - CP 2: Portal
     - Standort
     - Linkobjekttyp, ggfs. CP 4: Hinweisobjekt (ab zweitem regulären Portal)
 
-AR-Session (regulär)
+## AR-Session (regulär)
+
 - CP 2: Portal
     - Hint Text
     - Hint Image
@@ -54,16 +59,16 @@ AR-Session (regulär)
     - Abmoderation (nur im letzten Portal)
 
 
-Sammelalbum
+## Sammelalbum
 
-Erste und letzte Seite
+### Erste und letzte Seite
 - CP 1: Geschichte
     - Titel
     - Bild für Tourauswahl
     - Anmoderation
     - Abmoderation
 
-Portalseite
+### Portalseite
 - CP 2: Portal
     - Bild für Sammelalbum
     - Titel
