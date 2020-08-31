@@ -39,7 +39,7 @@ Nach Auswahl einer Tour beginnt unmittelbar die erste AR-Session ad-hoc. Nach Du
 
 Nachdem das erste Navigationsartefakt eingesammelt wurde, gelangt die User*in zum Spielplan. Durch Aktivieren des Navigationsartefakts startet der Navigator.
 
-![Spielplan](/img/4-spielplan.png)
+![Spielplan](/img/4_spielplan.png)
 
 - [CP 1: Geschichte](2-cms.html#cp1-geschichte)
     - Titel ([3.1](#3.1-titel))
