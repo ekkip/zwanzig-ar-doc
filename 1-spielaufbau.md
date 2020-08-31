@@ -8,21 +8,21 @@ nav_order: 1
 
 ## Intro
 
-![Intro](/img/1_intro_small_.png)
+![Intro](/img/1_intro.png)
 
 Die mehrseitige Intro muss einmal durchgeblättert werden, von hier gelangt die User*in automatisch zur Tourauswahl.
 
 ## Tourauswahl
 
-![Tourauswahl](/img/2_tourauswahl_small.png)
+![Tourauswahl](/img/2_tourauswahl.png)
 
-- CP 0: App
-    - Geschichten [CP 1]  
-- CP 1: Geschichte
-    - Titel
-    - Bild für Tourauswahl
-    - Text für Tourauswahl
-    - Tourlänge [Minuten]
+Es werden alle Geschichten angezeigt, die im (einzigen) Content-Eintrag des Typs **CP 0: Game** gelistet sind.
+
+- **CP 1: Geschichte**
+    [1.](#1.1-bild-fuer-tourauswahl) Bild für Tourauswahl
+    [2.](#1.2-titel) Titel
+    [3.](#1.3-text-fuer-tourauswahl) Text für Tourauswahl
+    [4.](#1.4-tourlaenge) Tourlänge
 
 ## AR-Session (Tourbeginn)
 
