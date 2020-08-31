@@ -8,15 +8,15 @@ nav_order: 1
 
 ## Intro
 
-![Intro](/img/1_intro.png)
-
 Die mehrseitige Intro muss einmal durchgeblättert werden, von hier gelangt die User*in automatisch zur Tourauswahl.
+
+![Intro](/img/1_intro.png)
 
 ## Tourauswahl
 
-![Tourauswahl](/img/2_tourauswahl.png)
-
 Es werden alle Geschichten angezeigt, die im (einzigen) Content-Eintrag des Typs [CP 0: Game](2-cms.html#cp0-game) gelistet sind.
+
+![Tourauswahl](/img/2_tourauswahl.png)
 
 - [CP 1: Geschichte](2-cms.html#cp1-geschichte)
     - Bild für Tourauswahl ([1.1](#1.1-bild-fuer-tourauswahl))
@@ -26,6 +26,8 @@ Es werden alle Geschichten angezeigt, die im (einzigen) Content-Eintrag des Typs
 
 ## AR-Session (Tourbeginn)
 
+Nach Auswahl einer Tour beginnt unmittelbar die erste AR-Session ad-hoc. Nach Durchschreiten des erschienenen Portals wird zunächst die Anmoderation (2.2) und dann das erste Navigationsartefakt (2.3) eingesammelt.
+
 ![AR-Session Tourbeginn 1](/img/3_ar-session-tourbeginn-1.png) ![AR-Session Tourbeginn 2](/img/3_ar-session-tourbeginn-2.png)
 
 - [CP 1: Geschichte](2-cms.html#cp1-geschichte)
@@ -34,6 +36,9 @@ Es werden alle Geschichten angezeigt, die im (einzigen) Content-Eintrag des Typs
     - Einstiegs-Linkobjekttyp ([2.3](#2.3-einstiegs-linkobjekttyp))
 
 ## Spielplan
+
+Nachdem das erste Navigationsartefakt eingesammelt wurde, gelangt die User*in zum Spielplan.
+
 
 - [CP 1: Geschichte](2-cms.html#cp1-geschichte)
     - Portale [CP 2]
