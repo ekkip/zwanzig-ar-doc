@@ -16,13 +16,13 @@ Die mehrseitige Intro muss einmal durchgeblättert werden, von hier gelangt die 
 
 ![Tourauswahl](/img/2_tourauswahl.png)
 
-Es werden alle Geschichten angezeigt, die im (einzigen) Content-Eintrag des Typs **CP 0: Game** gelistet sind.
+Es werden alle Geschichten angezeigt, die im (einzigen) Content-Eintrag des Typs [CP 0: Game](2-cms.html#cp1-game) gelistet sind.
 
-- **CP 1: Geschichte**
-    [1.](#1.1-bild-fuer-tourauswahl) Bild für Tourauswahl
-    [2.](#1.2-titel) Titel
-    [3.](#1.3-text-fuer-tourauswahl) Text für Tourauswahl
-    [4.](#1.4-tourlaenge) Tourlänge
+- [CP 1: Geschichte](2-cms.html#cp2-geschichte)
+    - Bild für Tourauswahl [1.1](#1.1-bild-fuer-tourauswahl)
+    - Titel [1.2](#1.2-titel)
+    - Text für Tourauswahl [1.3](#1.3-text-fuer-tourauswahl)
+    - Tourlänge [1.4](#1.4-tourlaenge)
 
 ## AR-Session (Tourbeginn)
 
