@@ -16,9 +16,9 @@ Die mehrseitige Intro muss einmal durchgeblättert werden, von hier gelangt die 
 
 ![Tourauswahl](/img/2_tourauswahl.png)
 
-Es werden alle Geschichten angezeigt, die im (einzigen) Content-Eintrag des Typs [CP 0: Game](2-cms.html#cp1-game) gelistet sind.
+Es werden alle Geschichten angezeigt, die im (einzigen) Content-Eintrag des Typs [CP 0: Game](2-cms.html#cp0-game) gelistet sind.
 
-- [CP 1: Geschichte](2-cms.html#cp2-geschichte)
+- [CP 1: Geschichte](2-cms.html#cp1-geschichte)
     - Bild für Tourauswahl [1.1](#1.1-bild-fuer-tourauswahl)
     - Titel [1.2](#1.2-titel)
     - Text für Tourauswahl [1.3](#1.3-text-fuer-tourauswahl)
@@ -26,27 +26,27 @@ Es werden alle Geschichten angezeigt, die im (einzigen) Content-Eintrag des Typs
 
 ## AR-Session (Tourbeginn)
 
-- CP 1: Geschichte
+- [CP 1: Geschichte](2-cms.html#cp1-geschichte)
     - Anmoderation
     - Einstiegs-Linkobjekttyp
 
 ## Spielplan
 
-- CP 1: Geschichte
+- [CP 1: Geschichte](2-cms.html#cp1-geschichte)
     - Portale [CP 2]
         - Standort
 
 ## Navigator
 
-- CP 1: Geschichte
+- [CP 1: Geschichte](2-cms.html#cp1-geschichte)
     - Einstiegs-Linkobjekttyp, ggfs. CP 4: Hinweisobjekt (für erstes reguläres Portal)
-- CP 2: Portal
+- [CP 2: Portal](2-cms.html#cp2-portal)
     - Standort
     - Linkobjekttyp, ggfs. CP 4: Hinweisobjekt (ab zweitem regulären Portal)
 
 ## AR-Session (regulär)
 
-- CP 2: Portal
+- [CP 2: Portal](2-cms.html#cp2-portal)
     - Hint Text
     - Hint Image
     - World Map
