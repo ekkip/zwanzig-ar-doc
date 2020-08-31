@@ -1,6 +1,7 @@
 ---
 title: Persistent AR
 parent: Übersicht
+has_children: true
 nav_order: 3
 ---
 
