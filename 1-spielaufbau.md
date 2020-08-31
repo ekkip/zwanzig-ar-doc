@@ -49,9 +49,12 @@ Nachdem das erste Navigationsartefakt eingesammelt wurde, gelangt die User*in zu
 
 Es gibt 3 Arten von Navigations-Artefakten:
 - Das Hinweis-Artefakt gibt einen inhaltlichen Hinweis auf den Portal-Ort, auf die letzten Meter kommt eine Radar-Ansicht zu Hilfe. Das Hinweis-Artefakt kann auf ein anderes Navigations-Artefakt gedowngradet werden.
+
+![Navigator Hinweis-Artefakt](/img/5_navigator-1.png) ![Navigator Radar](/img/5_navigator-1b.png)
+
 - Magischer Kompass und Pharus-Nadel stellen eine direkte Navigation zum nächsten Portal dar.
 
-![Navigator Hinweis-Artefakt](/img/5_navigator-1.png) ![Navigator Radar](/img/5_navigator-1b.png) ![Navigator Magischer Kompass](/img/5_navigator-2.png) ![Navigator Pharus-Nadel](/img/5_navigator-3.png)
+![Navigator Magischer Kompass](/img/5_navigator-2.png) ![Navigator Pharus-Nadel](/img/5_navigator-3.png)
 
 - [CP 4: Hinweisobjekt](2-cms.html#cp4-hinweisobjekt)
     - Media ([4.1](#4.1-media)): 2 Bilder (Vorder- und Rückseite)
