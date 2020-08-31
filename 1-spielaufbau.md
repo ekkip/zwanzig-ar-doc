@@ -14,6 +14,8 @@ Die mehrseitige Intro muss einmal durchgeblättert werden, von hier gelangt die 
 
 ## Tourauswahl
 
+![Tourauswahl](/img/2_tourauswahl_small.png)
+
 - CP 0: App
     - Geschichten [CP 1]  
 - CP 1: Geschichte
@@ -26,7 +28,7 @@ Die mehrseitige Intro muss einmal durchgeblättert werden, von hier gelangt die 
 
 - CP 1: Geschichte
     - Anmoderation
-    - Einstiegs-Linkobjekttyp, ggfs. CP 4: Einstiegshinweisobjekt
+    - Einstiegs-Linkobjekttyp
 
 ## Spielplan
 
