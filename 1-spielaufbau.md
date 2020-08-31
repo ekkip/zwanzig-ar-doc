@@ -80,24 +80,33 @@ Es gibt 3 Arten von Navigations-Artefakten:
 
 ## Sammelalbum
 
+Die im Spielverlauf aufgefundenen Inhalte sind im Sammelalbum jederzeit wieder abrufbar. Das Sammelalbum besteht aus einer ersten und letzten Seite für die An- und Abmoderation der Geschichte sowie je einer Seite für jedes besuchte Portal, auf der die portalspezifischen Inhalte zusammengefasst sind.
+
 ### Erste und letzte Seite
-- CP 1: Geschichte
-    - Titel
-    - Bild für Tourauswahl
-    - Anmoderation
-    - Abmoderation
+
+![Sammelalbum Start](/img/7_sammelalbum-1.png) ![Sammelalbum Ende](/img/7_sammelalbum-2.png)
+
+- [CP 1: Geschichte](2-cms.html#cp1-geschichte)
+    - Bild für Tourauswahl ([6.1](#6.1-bild-fuer-tourauswahl))
+    - Titel ([6.2](#6.2-titel))
+    - Anmoderation ([6.3](#6.3-anmoderation))
+    - Abmoderation ([6.4](#6.4-abmoderation))
 
 ### Portalseite
-- CP 2: Portal
-    - Bild für Sammelalbum
-    - Titel
-    - Portalspezifische Story
-    - Standort
-    - Objekte [CP 3]
-        - Asset (Besonderheiten Vorschaubild!)
-        - Titel
-        - Objektspezifische Story
-        - Stiftende Organisation [CP 5]
-            - Titel
-            - Logo
-        - zum Teilen freigegeben ja/nein
+
+![Sammelalbum Portalseite 1](/img/8_sammelalbum-portal-1.png) ![Sammelalbum Portalseite 1](/img/8_sammelalbum-portal-2.png)
+
+- [CP 2: Portal](2-cms.html#cp2-portal)
+    - Bild für Sammelalbum ([7.1](#7.1-bild-fuer-sammelalbum))
+    - Titel ([7.2](#7.2-titel))
+    - Portalspezifische Story ([7.3](#7.3-portalspezifische-story))
+
+- [CP 3: Objekt](2-cms.html#cp3-objekt)
+    - Media (Besonderheiten Vorschaubild!) ([7.4](#7.4-media))
+    - Titel ([7.5](#7.5-titel))
+    - Objektspezifische Story ([7.6](#7.6-objektspezifische-story))
+    - zum Teilen freigegeben ja/nein ([7.7](#7.7-zum-teilen-freigegeben))
+
+- [CP 4: Institution](2-cms.html#cp5-institution)
+    - Titel ([7.8](#7.8-titel))
+    - Logo ([7.9](#7.9-titel))
