@@ -19,16 +19,19 @@ Die mehrseitige Intro muss einmal durchgeblättert werden, von hier gelangt die 
 Es werden alle Geschichten angezeigt, die im (einzigen) Content-Eintrag des Typs [CP 0: Game](2-cms.html#cp0-game) gelistet sind.
 
 - [CP 1: Geschichte](2-cms.html#cp1-geschichte)
-    - Bild für Tourauswahl [1.1](#1.1-bild-fuer-tourauswahl)
-    - Titel [1.2](#1.2-titel)
-    - Text für Tourauswahl [1.3](#1.3-text-fuer-tourauswahl)
-    - Tourlänge [1.4](#1.4-tourlaenge)
+    - Bild für Tourauswahl ([1.1](#1.1-bild-fuer-tourauswahl))
+    - Titel ([1.2](#1.2-titel))
+    - Text für Tourauswahl ([1.3](#1.3-text-fuer-tourauswahl))
+    - Tourlänge ([1.4](#1.4-tourlaenge))
 
 ## AR-Session (Tourbeginn)
 
+![AR-Session Tourbeginn 1](/img/3_ar-session-tourbeginn-1.png) ![AR-Session Tourbeginn 2](/img/3_ar-session-tourbeginn-2.png)
+
 - [CP 1: Geschichte](2-cms.html#cp1-geschichte)
-    - Anmoderation
-    - Einstiegs-Linkobjekttyp
+    - Titel ([2.1](#2.1-titel))
+    - Anmoderation ([2.2](#2.2-anmoderation))
+    - Einstiegs-Linkobjekttyp ([2.3](#2.3-einstiegs-linkobjekttyp))
 
 ## Spielplan
 
