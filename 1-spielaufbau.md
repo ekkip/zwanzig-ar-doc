@@ -8,7 +8,7 @@ nav_order: 1
 
 ## Intro
 
-[Intro](/img/1_intro.png)
+![Intro](/img/1_intro.png)
 
 Die mehrseitige Intro muss einmal durchgeblättert werden, von hier gelangt die User*in automatisch zur Tourauswahl.
 
