@@ -94,6 +94,8 @@ Die im Spielverlauf aufgefundenen Inhalte sind im Sammelalbum jederzeit wieder a
 
 ### Portalseite
 
+Die Portalseite beginnt mit portalspezifischen Inhalten, darunter folgen absatzweise die Inhalte zu den im Portal gesammelten Objekten und der jeweils stiftenden Institution.
+
 ![Sammelalbum Portalseite 1](/img/8_sammelalbum-portal-1.png) ![Sammelalbum Portalseite 1](/img/8_sammelalbum-portal-2.png)
 
 - [CP 2: Portal](2-cms.html#cp2-portal)
