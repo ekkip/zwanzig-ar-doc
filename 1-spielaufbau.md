@@ -112,12 +112,14 @@ Die im Spielverlauf aufgefundenen Inhalte sind im Sammelalbum jederzeit wieder a
 
 Die Portalseite beginnt mit portalspezifischen Inhalten, darunter folgen absatzweise die Inhalte zu den im Portal gesammelten Objekten und der jeweils stiftenden Institution.
 
-![Sammelalbum Portalseite 1](/img/8_sammelalbum-portal-1.png) ![Sammelalbum Portalseite 1](/img/8_sammelalbum-portal-2.png)
+![Sammelalbum Portalseite Kopf](/img/8_sammelalbum-portal-1.png)
 
 - [CP 2: Portal](2-cms.html#cp2-portal)
     - Bild für Sammelalbum ([7.1](#7.1-bild-fuer-sammelalbum))
     - Titel ([7.2](#7.2-titel))
     - Portalspezifische Story ([7.3](#7.3-portalspezifische-story))
+
+![Sammelalbum Portalseite Objekt-Absatz](/img/8_sammelalbum-portal-2.png)
 
 - [CP 3: Objekt](2-cms.html#cp3-objekt)
     - Media ([7.4](#7.4-media)): Vorschaubild (nur bei 3D-Objekten als zusätzliches 2D-Bild zu ergänzen)
