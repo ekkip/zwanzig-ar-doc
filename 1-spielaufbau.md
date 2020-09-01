@@ -19,7 +19,7 @@ Es werden alle Geschichten (auch als Touren oder "Zeitreisen" bezeichnet) angeze
 ![Tourauswahl](/img/2_tourauswahl.png)
 
 - [CP 1: Geschichte](2-cms.html#cp1-geschichte)
-    - Bild für Tourauswahl ([1.1](#1.1-bild-fuer-tourauswahl))
+    - Bild für Tourauswahl ([1.1](#heading-1.1-bild-fuer-tourauswahl))
     - Titel ([1.2](#1.2-titel))
     - Text für Tourauswahl ([1.3](#1.3-text-fuer-tourauswahl))
     - Tourlänge ([1.4](#1.4-tourlaenge))
