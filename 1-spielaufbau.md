@@ -48,34 +48,50 @@ Nachdem das erste Navigationsartefakt eingesammelt wurde, gelangt die User*in zu
 ## Navigator
 
 Es gibt 3 Arten von Navigations-Artefakten:
-- Das Hinweis-Artefakt gibt einen inhaltlichen Hinweis auf den Portal-Ort, auf die letzten Meter kommt eine Radar-Ansicht zu Hilfe. Das Hinweis-Artefakt kann auf ein anderes Navigations-Artefakt gedowngradet werden.
-
-![Navigator Hinweis-Artefakt](/img/5_navigator-1.png) ![Navigator Radar](/img/5_navigator-1b.png)
 
 - Magischer Kompass und Pharus-Nadel stellen eine direkte Navigation zum nächsten Portal dar.
 
 ![Navigator Magischer Kompass](/img/5_navigator-2.png) ![Navigator Pharus-Nadel](/img/5_navigator-3.png)
+
+- Das Hinweis-Artefakt gibt einen inhaltlichen Hinweis auf den Portal-Ort, auf die letzten Meter kommt eine Radar-Ansicht zu Hilfe. Das Hinweis-Artefakt kann auf ein anderes Navigations-Artefakt gedowngradet werden.
+
+![Navigator Hinweis-Artefakt](/img/5_navigator-1.png) ![Navigator Radar](/img/5_navigator-1b.png)
 
 - [CP 4: Hinweisobjekt](2-cms.html#cp4-hinweisobjekt)
     - Media ([4.1](#4.1-media)): 2 Bilder (Vorder- und Rückseite)
 
 ## AR-Session (regulär)
 
+Wurde der Ort gefunden (GPS-Genauigkeit) öffnet sich die AR-Session. Die User*in hat nun die Aufgabe, den Einstiegspunkt der Worldmap zu finden. Hierzu gibt es zunächst einen textlichen (5.1), bei Bedarf auch einen bildlichen Hinweis (6.1).
+
+![AR-Session Hint Text](/img/6_ar-session-1a.png) ![AR-Session Hint Image](/img/6_ar-session-1b.png)
+
 - [CP 2: Portal](2-cms.html#cp2-portal)
-    - Hint Text
-    - Hint Image
-    - World Map
-    - Portalspezifische Story
-    - Objekte [CP 3]
-        - Titel
-        - Asset
-        - Container
-        - Objektspezifische Story
-        - Containertyp, ggfs. Long Dimension (Containertyp “Paper” und “Film”)
-        - Fragmentation
-    - Linkobjekttyp, ggfs. CP 4: Hinweisobjekt (außer letztes Portal)
-- CP 1: Geschichte
-    - Abmoderation (nur im letzten Portal)
+    - Hint Text ([5.1](#5.1-hint-text))
+    - Hint Image ([5.2](#5.1-hint-image))
+
+Sobald die Worldmap gefunden wurde, wird zunächst das Portal platziert. Nach dessen Durchschreitung erscheint die Portal-Einführung (5.3, 5.4).
+
+![AR-Session Portal Titel](/img/6_ar-session-2a.png) ![AR-Session Portalspezifische Story](/img/6_ar-session-2b.png)
+
+- [CP 2: Portal](2-cms.html#cp2-portal)
+    - Titel ([5.3](#5.3-titel))
+    - Portalspezifische Story ([5.4](#5.4-portalspezifische-story))
+
+Beim anschließenden Einsammeln der Objekte erscheint die Objektbeschreibung fürs Sammelalbum (5.5, 5.6, 5.7), das Objekt (5.8) erhält ein Titel-Label (5.6).
+
+![AR-Session Objektspezifische Story](/img/6_ar-session-3a.png) ![AR-Session Objekt](/img/6_ar-session-3b.png)
+
+- [CP 3: Objekt](2-cms.html#cp3-objekt)
+    - Media ([5.5](#5.5-media)): Vorschaubild (nur bei 3D-Objekten als zusätzliches 2D-Bild zu ergänzen)
+    - Titel ([5.6](#5.6-titel))
+    - Objektspezifische Story ([5.7](#5.7-objektspezifische-story))
+    - Media ([5.8](#5.3-titel)): eigentliches Objekt
+
+![AR-Session Navigationsartefakt](/img/6_ar-session-4a.png)
+
+- [CP 3: Objekt](2-cms.html#cp3-objekt)
+    - Linkobjekttyp ([5.9](#5.9-linkobjekttyp)) außer letztes Portal
 
 
 ## Sammelalbum
@@ -104,7 +120,7 @@ Die Portalseite beginnt mit portalspezifischen Inhalten, darunter folgen absatzw
     - Portalspezifische Story ([7.3](#7.3-portalspezifische-story))
 
 - [CP 3: Objekt](2-cms.html#cp3-objekt)
-    - Media (Besonderheiten Vorschaubild!) ([7.4](#7.4-media))
+    - Media ([7.4](#7.4-media)): Vorschaubild (nur bei 3D-Objekten als zusätzliches 2D-Bild zu ergänzen)
     - Titel ([7.5](#7.5-titel))
     - Objektspezifische Story ([7.6](#7.6-objektspezifische-story))
     - zum Teilen freigegeben ja/nein ([7.7](#7.7-zum-teilen-freigegeben))
