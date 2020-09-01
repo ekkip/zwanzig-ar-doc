@@ -17,7 +17,7 @@ Als CMS dient die Headless-CMS-Lösung von Contentful.
 
 ## CP1: Geschichte
 
-- Titel
+- Titel: Text
 
 - Anmoderation: [Textobjekt](2-cms.html#textobjekt)
     - Ausspielungen: [2.2](1-spielaufbau.html#2.2-anmoderation); [6.3](1-spielaufbau.html#6.3-anmoderation)
@@ -50,7 +50,30 @@ Als CMS dient die Headless-CMS-Lösung von Contentful.
 
 ## CP2: Portal
 
+- Titel: Text
 
+- Portalspezifische Story: [Textobjekt](2-cms.html#textobjekt)
+
+- Standort: GPS-Location
+    - Eingabe im CMS Texteingabe der Adresse kann genutzt werden, ausschlaggebend ist die Position der Nadel in der Kartendarstellung
+
+- Objekte: [CP 3: Objekt](2-cms.html#cp3-objekt) (mult.)
+
+- Linkobjekttyp: [Linkobjekttyp](2-cms.html#extension-linkobjekttyp)
+    - bei Option "Hinweisobjekt" ist zusätzlich ein Hinweisobjekt zu definieren
+    - Ausspielungen: [5.9](#5.9-linkobjekttyp)
+
+- Hinweisobjekt: [CP 4: Hinweisobjekt](2-cms.html#cp4-hinweisobjekt)
+    - anzugeben, wenn bei Linkobjekttyp Option "Hinweisobjekt" eingestellt ist
+    - Ausspielungen: [4.1](1-spielaufbau.html#4.1-media)
+
+- Bild für Sammelalbum
+
+- World Maps
+
+- Hint Text
+
+- Hint Image
 
 
 
