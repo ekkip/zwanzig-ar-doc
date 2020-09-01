@@ -19,10 +19,10 @@ Es werden alle Geschichten (auch als Touren oder "Zeitreisen" bezeichnet) angeze
 ![Tourauswahl](/img/2_tourauswahl.png)
 
 - [CP 1: Geschichte](2-cms.html#cp1-geschichte)
-    - Bild für Tourauswahl ([1.1](#1.1-bild-fuer-tourauswahl))
-    - Titel ([1.2](#1.2-titel))
-    - Text für Tourauswahl ([1.3](#1.3-text-fuer-tourauswahl))
-    - Tourlänge ([1.4](#1.4-tourlaenge))
+    - Bild für Tourauswahl (<a name="1.1-bild-fuer-tourauswahl">1.1</a>)
+    - Titel (<a name="1.2-titel">1.2</a>)
+    - Text für Tourauswahl (<a name="1.3-text-fuer-tourauswahl">1.3</a>)
+    - Tourlänge (<a name="1.4-tourlaenge">1.4</a>)
 
 ## AR-Session (Tourbeginn)
 
@@ -31,9 +31,9 @@ Nach Auswahl einer Tour beginnt unmittelbar die erste AR-Session ad-hoc. Nach Du
 ![AR-Session Tourbeginn 1](/img/3_ar-session-tourbeginn-1.png) ![AR-Session Tourbeginn 2](/img/3_ar-session-tourbeginn-2.png)
 
 - [CP 1: Geschichte](2-cms.html#cp1-geschichte)
-    - Titel ([2.1](#2.1-titel))
-    - Anmoderation ([2.2](#2.2-anmoderation))
-    - Einstiegs-Linkobjekttyp ([2.3](#2.3-einstiegs-linkobjekttyp))
+    - Titel (<a name="2.1-titel">2.1</a>)
+    - Anmoderation (<a name="2.2-anmoderation">2.2</a>)
+    - Einstiegs-Linkobjekttyp (<a name="2.3-einstiegs-linkobjekttyp">2.3</a>)
 
 ## Spielplan
 
@@ -42,8 +42,8 @@ Nachdem das erste Navigationsartefakt eingesammelt wurde, gelangt die User*in zu
 ![Spielplan](/img/4_spielplan.png)
 
 - [CP 1: Geschichte](2-cms.html#cp1-geschichte)
-    - Titel ([3.1](#3.1-titel))
-    - Linkobjekttyp ([3.2](#3.2-linkobjekttyp))
+    - Titel (<a name="3.1-titel">3.1</a>)
+    - Linkobjekttyp (<a name="3.2-linkobjekttyp">3.2</a>)
 
 ## Navigator
 
@@ -58,7 +58,7 @@ Es gibt 3 Arten von Navigations-Artefakten:
 ![Navigator Hinweis-Artefakt](/img/5_navigator-1.png) ![Navigator Radar](/img/5_navigator-1b.png)
 
 - [CP 4: Hinweisobjekt](2-cms.html#cp4-hinweisobjekt)
-    - Media ([4.1](#4.1-media)): 2 Bilder (Vorder- und Rückseite)
+    - Media (<a name="4.1-media">4.1</a>): 2 Bilder (Vorder- und Rückseite)
 
 ## AR-Session (regulär)
 
@@ -67,31 +67,31 @@ Wurde der Ort gefunden (GPS-Genauigkeit) öffnet sich die AR-Session. Die User*i
 ![AR-Session Hint Text](/img/6_ar-session-1a.png) ![AR-Session Hint Image](/img/6_ar-session-1b.png)
 
 - [CP 2: Portal](2-cms.html#cp2-portal)
-    - Hint Text ([5.1](#5.1-hint-text))
-    - Hint Image ([5.2](#5.1-hint-image))
+    - Hint Text (<a name="5.1-hint-text">5.1</a>)
+    - Hint Image (<a name="5.2-hint-image">5.2</a>)
 
 Sobald die Worldmap gefunden wurde, wird zunächst das Portal platziert. Nach dessen Durchschreitung erscheint die Portal-Einführung (5.3, 5.4).
 
 ![AR-Session Portal Titel](/img/6_ar-session-2a.png) ![AR-Session Portalspezifische Story](/img/6_ar-session-2b.png)
 
 - [CP 2: Portal](2-cms.html#cp2-portal)
-    - Titel ([5.3](#5.3-titel))
-    - Portalspezifische Story ([5.4](#5.4-portalspezifische-story))
+    - Titel (<a name="5.3-titel">5.3</a>)
+    - Portalspezifische Story (<a name="5.4-portalspezifische-story">5.4</a>)
 
 Beim anschließenden Einsammeln der Objekte erscheint die Objektbeschreibung fürs Sammelalbum (5.5, 5.6, 5.7), das Objekt (5.8) erhält ein Titel-Label (5.6).
 
 ![AR-Session Objektspezifische Story](/img/6_ar-session-3a.png) ![AR-Session Objekt](/img/6_ar-session-3b.png)
 
 - [CP 3: Objekt](2-cms.html#cp3-objekt)
-    - Media ([5.5](#5.5-media)): Vorschaubild (nur bei 3D-Objekten als zusätzliches 2D-Bild zu ergänzen)
-    - Titel ([5.6](#5.6-titel))
-    - Objektspezifische Story ([5.7](#5.7-objektspezifische-story))
-    - Media ([5.8](#5.3-titel)): eigentliches Objekt
+    - Media (<a name="5.5-vorschau">5.5</a>): Vorschaubild (nur bei 3D-Objekten als zusätzliches 2D-Bild zu ergänzen)
+    - Titel (<a name="5.6-titel">5.6</a>)
+    - Objektspezifische Story (<a name="5.7-objektspezifische-story">5.7</a>)
+    - Media (<a name="5.8-objekt">5.8</a>): eigentliches Objekt
 
 ![AR-Session Navigationsartefakt](/img/6_ar-session-4a.png)
 
 - [CP 3: Objekt](2-cms.html#cp3-objekt)
-    - Linkobjekttyp ([5.9](#5.9-linkobjekttyp)) außer letztes Portal
+    - Linkobjekttyp (<a name="5.9-linkobjekttyp">5.9</a>) außer letztes Portal
 
 
 ## Sammelalbum
@@ -104,9 +104,9 @@ Die im Spielverlauf aufgefundenen Inhalte sind im Sammelalbum jederzeit wieder a
 
 - [CP 1: Geschichte](2-cms.html#cp1-geschichte)
     - Bild für Tourauswahl (<a name="6.1-bild-fuer-tourauswahl">6.1</a>)
-    - Titel ([6.2](#6.2-titel))
-    - Anmoderation ([6.3](#6.3-anmoderation))
-    - Abmoderation ([6.4](#6.4-abmoderation))
+    - Titel (<a name="6.2-titel">6.2</a>)
+    - Anmoderation (<a name="6.3-anmoderation">6.3</a>)
+    - Abmoderation (<a name="6.4-abmoderation">6.4</a>)
 
 ### Portalseite
 
@@ -115,18 +115,18 @@ Die Portalseite beginnt mit portalspezifischen Inhalten, darunter folgen absatzw
 ![Sammelalbum Portalseite Kopf](/img/8_sammelalbum-portal-1.png)
 
 - [CP 2: Portal](2-cms.html#cp2-portal)
-    - Bild für Sammelalbum ([7.1](#7.1-bild-fuer-sammelalbum))
-    - Titel ([7.2](#7.2-titel))
-    - Portalspezifische Story ([7.3](#7.3-portalspezifische-story))
+    - Bild für Sammelalbum (<a name="7.1-bild-fuer-sammelalbum">7.1</a>)
+    - Titel (<a name="7.2-titel">7.2</a>)
+    - Portalspezifische Story (<a name="7.3-portalspezifische-story">7.3</a>)
 
 ![Sammelalbum Portalseite Objekt-Absatz](/img/8_sammelalbum-portal-2.png)
 
 - [CP 3: Objekt](2-cms.html#cp3-objekt)
-    - Media ([7.4](#7.4-media)): Vorschaubild (nur bei 3D-Objekten als zusätzliches 2D-Bild zu ergänzen)
-    - Titel ([7.5](#7.5-titel))
-    - Objektspezifische Story ([7.6](#7.6-objektspezifische-story))
-    - zum Teilen freigegeben ja/nein ([7.7](#7.7-zum-teilen-freigegeben))
+    - Media (<a name="7.4-media">7.4</a>): Vorschaubild (nur bei 3D-Objekten als zusätzliches 2D-Bild zu ergänzen)
+    - Titel (<a name="7.5-titel">7.5</a>)
+    - Objektspezifische Story (<a name="7.6-objektspezifische-story">7.6</a>)
+    - zum Teilen freigegeben ja/nein (<a name="7.7-zum-teilen-freigegeben">7.7</a>)
 
 - [CP 4: Institution](2-cms.html#cp5-institution)
-    - Titel ([7.8](#7.8-titel))
-    - Logo ([7.9](#7.9-titel))
+    - Titel (<a name="7.8-titel">7.8</a>)
+    - Logo (<a name="7.9-logo">7.9</a>)
