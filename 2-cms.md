@@ -12,31 +12,31 @@ Als CMS dient die Headless-CMS-Lösung von Contentful.
 
 - Titel
 
-- Geschichten: [CP 1: Geschichte](2-cms.html#cp1-geschichte) (mult.)
+- Geschichten: [CP 1: Geschichte](#cp1-geschichte) (mult.)
 
 
 ## CP1: Geschichte
 
 - Titel: Text
 
-- Anmoderation: [Textobjekt](2-cms.html#textobjekt)
+- Anmoderation: [Textobjekt](#textobjekt)
     - Ausspielungen: [2.2](1-spielaufbau.html#2.2-anmoderation); [6.3](1-spielaufbau.html#6.3-anmoderation)
 
-- Abmoderation: [Textobjekt](2-cms.html#textobjekt)
+- Abmoderation: [Textobjekt](#textobjekt)
     - Ausspielungen: Ende letzte AR-Session; [6.4](1-spielaufbau.html#6.4-abmoderation)
 
-- Portale: [CP 2: Portal](2-cms.html#cp2-portal) (mult.)
+- Portale: [CP 2: Portal](#cp2-portal) (mult.)
 
-- Einstiegs-Linkobjekttyp: [Linkobjekttyp](2-cms.html#extension-linkobjekttyp)
+- Einstiegs-Linkobjekttyp: [Linkobjekttyp](#extension-linkobjekttyp)
     - bei Option "Hinweisobjekt" ist zusätzlich ein Hinweisobjekt zu definieren
     - Ausspielungen: [2.3](1-spielaufbau.html#2.3-einstiegs-linkobjekttyp)
 
-- Einstiegs-Hinweisobjekt: [CP 4: Hinweisobjekt](2-cms.html#cp4-hinweisobjekt)
+- Einstiegs-Hinweisobjekt: [CP 4: Hinweisobjekt](#cp4-hinweisobjekt)
     - anzugeben, wenn bei Einstiegs-Linkobjekttyp Option "Hinweisobjekt" eingestellt ist
     - Ausspielungen: [4.1](1-spielaufbau.html#4.1-media)
 
 - Bild für Tourauswahl: Contentful Media
-    - Ausspielungen: [1.1](1-spielaufbau.html#1.1-bild-fuer-tourauswahl); [6.1](1-spielaufbau.html#6.1-bild-fuer-tourauswahl)
+    - Ausspielungen: [1.1](1-spielaufbau.html#1.1-bild-fuer-tourauswahl); [6.1](1-spielaufbau.html#heading-6.1-bild-fuer-tourauswahl)
 
 - Text für Tourauswahl: Text
     - Ausspielungen: [1.3](1-spielaufbau.html#1.3-text-fuer-tourauswahl)
@@ -45,32 +45,33 @@ Als CMS dient die Headless-CMS-Lösung von Contentful.
     - ungefähre Angabe in Minuten
     - Ausspielungen: [1.4](1-spielaufbau.html#1.4-tourlaenge)
 
-- Farbe: [Tour-Farbe](2-cms.html#extension-tour-farbe)
+- Farbe: [Tour-Farbe](#extension-tour-farbe)
 
 
 ## CP2: Portal
 
 - Titel: Text
 
-- Portalspezifische Story: [Textobjekt](2-cms.html#textobjekt)
+- Portalspezifische Story: [Textobjekt](#textobjekt)
 
 - Standort: GPS-Location
     - Eingabe im CMS Texteingabe der Adresse kann genutzt werden, ausschlaggebend ist die Position der Nadel in der Kartendarstellung
 
-- Objekte: [CP 3: Objekt](2-cms.html#cp3-objekt) (mult.)
+- Objekte: [CP 3: Objekt](#cp3-objekt) (mult.)
 
-- Linkobjekttyp: [Linkobjekttyp](2-cms.html#extension-linkobjekttyp)
+- Linkobjekttyp: [Linkobjekttyp](#extension-linkobjekttyp)
     - bei Option "Hinweisobjekt" ist zusätzlich ein Hinweisobjekt zu definieren
-    - Ausspielungen: [5.9](#5.9-linkobjekttyp)
+    - Ausspielungen: [5.9](1-spielaufbau.html#5.9-linkobjekttyp)
 
-- Hinweisobjekt: [CP 4: Hinweisobjekt](2-cms.html#cp4-hinweisobjekt)
+- Hinweisobjekt: [CP 4: Hinweisobjekt](#cp4-hinweisobjekt)
     - anzugeben, wenn bei Linkobjekttyp Option "Hinweisobjekt" eingestellt ist
     - Ausspielungen: [4.1](1-spielaufbau.html#4.1-media)
 
-- Bild für Sammelalbum
+- Bild für Sammelalbum: Contentful Media
+    - Ausspielungen: [7.1](1-spielaufbau.html#7.1-bild-fuer-sammelalbum)
 
 - World Maps
-
+    - [CP 4: Hinweisobjekt](#worldmap)
 - Hint Text
 
 - Hint Image
@@ -89,10 +90,16 @@ Das Hinweisobjekt ist ein 2D-Objekt mit Vorder- und Rückseite, die
 
 ## CP5: Institution
 
+## Worldmap
+
+- Title: Text
+- Map File: Contentful Media
 
 
 
 ## Weitere Content-Modelle und Erweiterungen
+
+
 
 ### Textobjekt
 
