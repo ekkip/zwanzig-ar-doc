@@ -103,9 +103,6 @@ Die im Spielverlauf aufgefundenen Inhalte sind im Sammelalbum jederzeit wieder a
 ![Sammelalbum Start](/img/7_sammelalbum-1.png) ![Sammelalbum Ende](/img/7_sammelalbum-2.png)
 
 - [CP 1: Geschichte](2-cms.html#cp1-geschichte)
-
-[6.1](#6.1-bild-fuer-tourauswahl)
-
     - Bild für Tourauswahl (<a name="6.1-bild-fuer-tourauswahl">6.1</a>)
     - Titel ([6.2](#6.2-titel))
     - Anmoderation ([6.3](#6.3-anmoderation))
