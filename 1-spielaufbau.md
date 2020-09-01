@@ -37,13 +37,15 @@ Nach Auswahl einer Tour beginnt unmittelbar die erste AR-Session ad-hoc. Nach Du
 
 ## Spielplan
 
-Nachdem das erste Navigationsartefakt eingesammelt wurde, gelangt die User*in zum Spielplan. Durch Aktivieren des Navigationsartefakts startet der Navigator.
+Nachdem das erste Navigationsartefakt (auch Linkobjekt) eingesammelt wurde, gelangt die User*in zum Spielplan. Durch Aktivieren des Navigationsartefakts startet der Navigator.
 
 ![Spielplan](/img/4_spielplan.png)
 
 - [CP 1: Geschichte](2-cms.html#cp1-geschichte)
     - Titel (<a name="3.1-titel">3.1</a>)
     - Linkobjekttyp (<a name="3.2-linkobjekttyp">3.2</a>)
+
+Navigationsartefakte, die später in den Portalen gefunden werden, ersetzen jeweils das aktuelle Artefakt ([3.2](#3.2-linkobjekttyp)).
 
 ## Navigator
 
@@ -53,7 +55,7 @@ Es gibt 3 Arten von Navigations-Artefakten:
 
 ![Navigator Magischer Kompass](/img/5_navigator-2.png) ![Navigator Pharus-Nadel](/img/5_navigator-3.png)
 
-- Das Hinweis-Artefakt gibt einen inhaltlichen Hinweis auf den Portal-Ort, auf die letzten Meter kommt eine Radar-Ansicht zu Hilfe. Das Hinweis-Artefakt kann auf ein anderes Navigations-Artefakt gedowngradet werden.
+- Das Hinweis-Artefakt sollte einen inhaltlichen Hinweis auf den Portal-Ort enthalten, auf die letzten Meter kommt eine Radar-Ansicht zu Hilfe. Das Hinweis-Artefakt kann auf ein anderes Navigations-Artefakt gedowngradet werden.
 
 ![Navigator Hinweis-Artefakt](/img/5_navigator-1.png) ![Navigator Radar](/img/5_navigator-1b.png)
 
