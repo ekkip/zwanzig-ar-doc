@@ -14,7 +14,7 @@ Die mehrseitige Intro muss einmal durchgeblättert werden, von hier gelangt die 
 
 ## Tourauswahl
 
-Es werden alle Geschichten angezeigt, die im (einzigen) Content-Eintrag des Typs [CP 0: Game](2-cms.html#cp0-game) gelistet sind.
+Es werden alle Geschichten (auch als Touren oder "Zeitreisen" bezeichnet) angezeigt, die im (einzigen) Content-Eintrag des Typs [CP 0: Game](2-cms.html#cp0-game) gelistet sind. Die User*in kann anhand der Teasertexte (1.3), Tourlängen (1.4) und der jeweiligen Entfernung zum ersten Portal eine informierte Entscheidung für eine Tour treffen.
 
 ![Tourauswahl](/img/2_tourauswahl.png)
 
