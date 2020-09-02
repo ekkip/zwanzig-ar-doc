@@ -8,8 +8,11 @@ nav_order: 0
 
 __Object by Object__ ist ein Schnitzeljagd-Spiel für iOS-Geräte, das im öffentlichen Raum von Berlin mit Hilfe von Persitent Augmented Reality gespielt werden kann.
 
-Diese Dokumentation beschreibt
-- die Spiel-App __Object by Object__
+Aufbau der Dokumentation:
+
+- Schnelleinrichtung
+
+- Spiel-App __Object by Object__
     - Spielaufbau
     - Installation und Einrichtung
 - CMS
