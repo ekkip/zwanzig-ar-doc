@@ -1,12 +1,13 @@
 ---
 title: CMS
 parent: Übersicht
+has_children: true
 nav_order: 2
 ---
 
 # CMS
 
-Als CMS dient die Headless-CMS-Lösung von Contentful.
+Als CMS dient die Headless-CMS-Lösung von [Contentful](https://www.contentful.com).
 
 Sowohl die Spiel-App als auch die Portal Editor Companion App greifen auf das CMS zu.
 
@@ -87,6 +88,7 @@ Hiervon sollte nur ein singulärer Eintrag als Ausgangspunkt der Datenbank exist
     - Ausspielungen: [7.1](1-spielaufbau.html#7.1-bild-fuer-sammelalbum)
 
 - World Maps: [Worldmap](#worldmap) (mult.)
+    - Optional. Kann
     - Fürs Einrichten können mehrere Worldmaps eingetragen werden
     - Die jeweils oberste Worldmap wird im Spiel benutzt
 
