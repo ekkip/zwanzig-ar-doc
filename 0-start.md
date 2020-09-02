@@ -4,9 +4,8 @@ has_children: true
 nav_order: 0
 ---
 
-# Zwanzig/AR Dokumentation
+# Object by Object Dokumentation
 
-Test this
+__Object by Object__ ist ein Schnitzeljagd-Spiel für iOS-Geräte, das im öffentlichen Raum von Berlin mit Hilfe von Persitent Augmented Reality gespielt werden kann.
 
-
-blah
+Diese Dokumentation beschreibt die Einrichtung des Content Management Systems und die Erstellung der Inhalte für die App.
