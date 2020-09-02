@@ -19,7 +19,7 @@ __Object by Object__ ist ein Schnitzeljagd-Spiel für iOS-Geräte, das im öffen
 - CMS
     - grundsätzliche Struktur
     - Einrichtung
-    - Befüllung des CMS mit den Hauptinhalten
+    - Befüllung des CMS mit den musealen Hauptinhalten
     - Befüllung des CMS mit den spieltechnischen Zusatzinhalten aus der Companion App __Portal Editor__
 
 - Companion App __Portal Editor__ zur Erstellung der spieltechnischen Zusatzinhalte
