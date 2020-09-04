@@ -28,3 +28,15 @@ Das CMS enthält eine einheitliche Datenstruktur, in der zweierlei Inhalte gespe
 
 - Redaktionelle [Hauptinhalte](2.3-hauptinhalte.html)
 - Spieltechnische [Zusatzinhalte](2.4-zusatzinhalte.html)
+
+![Contentful Entries](/img/cms-3.png)
+
+*Der Veröffentlichungs-Status jedes Eintrags kann festgelegt werden.*
+
+Da die __Object by Object__ App und in die __Portal Editor__ Companion App über unterschiedliche Schnittstellen auf das CMS zugreifen, sind die CSM-Einträge ja nach Veröffentlichungs-Status unterschiedlich sichtbar:
+
+| Status    | Object by Object                    | Portal Editor |
+| --------: | ----------------------------------: | ------------: |
+| Published | Sichtbar                            | Sichtbar      |
+| Changed   | Letzte gepublishte Version sichtbar | Sichtbar      |
+| Draft     | Nicht sichtbar                      | Sichtbar      |
