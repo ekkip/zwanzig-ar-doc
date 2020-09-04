@@ -21,7 +21,7 @@ Die Spielinhalte von __Object by Object__ werden durch ein Content Management Sy
 ### Content Management System
 - grundsätzliche Struktur
 - Einrichtung
-- Befüllung des CMS mit den musealen Hauptinhalten
+- Befüllung des CMS mit den redaktionellen Hauptinhalten
 - Befüllung des CMS mit den spieltechnischen Zusatzinhalten aus der Companion App __Portal Editor__
 
 ### Companion App __Portal Editor__ zur Erstellung der spieltechnischen Zusatzinhalte
