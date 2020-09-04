@@ -34,11 +34,11 @@ Die Einträge bilden die eigentliche [CMS-Struktur](2.2-cms-struktur.html) des P
 
 Da die __Object by Object__ App und in die __Portal Editor__ Companion App über unterschiedliche Schnittstellen auf das CMS zugreifen, sind die CSM-Einträge ja nach Veröffentlichungs-Status unterschiedlich sichtbar:
 
-| Status    | Object by Object                      | Portal Editor |
-| --------: | ----------------------------------:   | ------------: |
-| Published | Sichtbar                              | Sichtbar      |
-| Changed   | _Letzte gepublishte Version_ sichtbar | Sichtbar      |
-| Draft     | __Nicht__ sichtbar                    | Sichtbar      |
+| Status    | Object by Object                            | Portal Editor |
+| --------: | ----------------------------------:         | ------------: |
+| Published | Sichtbar                                    | Sichtbar      |
+| Changed   | __Letzte veröffentlichte Version__ sichtbar | Sichtbar      |
+| Draft     | __Nicht__ sichtbar                          | Sichtbar      |
 
 
 ## Haupt- und Zusatzinhalte
