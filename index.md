@@ -8,7 +8,7 @@ nav_order: 0
 
 __Object by Object__ ist ein Schnitzeljagd-Spiel für iOS-Geräte, das im öffentlichen Raum mit Hilfe von Persistent Augmented Reality (Persistent AR) gespielt werden kann.
 
-Die Spielinhalte von __Object by Object__ werden durch ein Content Management System bereitgestellt.
+Die redaktionellen Inhalte von __Object by Object__ werden durch ein Content Management System bereitgestellt. Spieltechnische Zusatzinhalte werden mit einer Companion App erstellt und ebenfalls über das Content Management System verfügbar gemacht.
 
 ## Inhalt
 
