@@ -11,7 +11,7 @@ Die Spiel-App Object by Object wird befüllt über ein Content Management System
 
 Es wird die Headless-CMS-Lösung von [Contentful](https://www.contentful.com) verwendet, siehe [Einrichtungsanleitung](2.1-einrichtung.html)
 
-In Contentful wird grundsätzlich zwischen Einträgen (Entries oder Content) und Mediendateien (Assets) unterschieden.
+In Contentful wird grundsätzlich zwischen Einträgen (Entries bzw. Content) und Mediendateien (Assets bzw. Media) unterschieden.
 
 ![Contentful Hauptmenü](/img/cms-1.png)
 
